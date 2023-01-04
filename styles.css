@@ -1,0 +1,11 @@
+body{
+    background-color: #D8D9CF;
+    font-family: 'Montserrat', sans-serif;
+    color:#553939;
+  }
+ 
+@media (max-width: 750px){
+.main-section{
+  font-size: 14px;
+}
+}
